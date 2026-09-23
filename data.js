@@ -79,7 +79,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "B",
         skill: "Expressing Disagreement",
         level: "LOTS",
-        explanation: "Ungkapan 'I think it is impossible' menunjukkan bahwa Gery tidak setuju (Disagreement) dengan pendapat Dian mengenai kemungkinan guru memberikan perpanjangan waktu."
+        explanation: "The expression 'I think it is impossible' clearly indicates disagreement with Dian's assumption regarding the teacher's willingness to give extra time."
     },
     {
         id: 2,
@@ -95,7 +95,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Polite Disagreement in Dialogue",
         level: "MOTS",
-        explanation: "Bella memiliki pandangan berbeda (menilai orang tua menunjukkan kasih sayang), sehingga ungkapan ketidaksetujuan secara sopan adalah 'I am afraid that I disagree with you'."
+        explanation: "Bella holds a contrasting perspective, so the polite disagreement phrase 'I am afraid that I disagree with you' accurately completes the exchange."
     },
     {
         id: 3,
@@ -111,7 +111,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "D",
         skill: "Expressing Strong Agreement",
         level: "LOTS",
-        explanation: "Respon yang tepat dan konstruktif untuk menyetujui opini Jihan adalah 'I strongly agree with you'."
+        explanation: "The appropriate conversational phrase expressing strong agreement with Jihan's viewpoint is 'I strongly agree with you'."
     },
     {
         id: 4,
@@ -127,7 +127,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Main Title / Topic Identification",
         level: "LOTS",
-        explanation: "Teks secara komprehensif mendefinisikan, menguraikan peran, dan cara menerapkan 'Digital Health Literacy' dalam mencari informasi kesehatan terpercaya."
+        explanation: "The entire passage defines digital health literacy, explains its dimensions, and outlines how healthcare providers help patients evaluate health information online."
     },
     {
         id: 5,
@@ -143,7 +143,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "C",
         skill: "Negative Fact / Detail Identification",
         level: "MOTS",
-        explanation: "Pernyataan C salah karena teks menyebutkan: 'Websites with many commercial ads or promotions... may not have reliable information'."
+        explanation: "Statement C is false because the passage explicitly warns: 'Websites with many commercial ads or promotions... may not have reliable information'."
     },
     {
         id: 6,
@@ -159,7 +159,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Author's Purpose / Paragraph Function",
         level: "HOTS",
-        explanation: "Sesuai kunci soal, Paragraf 4 berfokus pada upaya mendorong penyedia layanan kesehatan (healthcare providers) membimbing pasien memilah dan menilai kredibilitas informasi online."
+        explanation: "Paragraph 4 aims to urge healthcare providers to guide and equip patients with critical skills for navigating online health information."
     },
     {
         id: 7,
@@ -175,7 +175,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "E",
         skill: "Reading Inference (HOTS)",
         level: "HOTS",
-        explanation: "Secara tersirat, penulis mendesak tenaga medis/penyedia layanan agar aktif mengedukasi pasien cara mencari informasi kesehatan yang valid secara daring."
+        explanation: "The writer implicitly urges medical providers to take an active role in training patients to recognize credible medical sources online."
     },
     {
         id: 8,
@@ -191,7 +191,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "E",
         skill: "Vocabulary in Context (Synonym)",
         level: "MOTS",
-        explanation: "'Bolstered' bermakna diperkuat, ditopang, atau didukung ('supported')."
+        explanation: "'Bolstered' means strengthened or supported ('supported')."
     },
     {
         id: 9,
@@ -207,7 +207,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "C",
         skill: "Dialogue Topic Synthesis",
         level: "MOTS",
-        explanation: "Dialog Lisa dan Ferdi membahas pentingnya memilah dan menemukan sumber informasi kesehatan yang valid dan kredibel dari internet (seperti situs pemerintah)."
+        explanation: "The central topic of Lisa and Ferdi's conversation is the necessity of finding verified and authoritative health information online."
     },
     {
         id: 10,
@@ -223,7 +223,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "B",
         skill: "Specific Detail Retrieval",
         level: "LOTS",
-        explanation: "Ferdi mengatakan: 'I'm looking for some tips to cure it', yang berarti ia mencari solusi pengobatan sakitnya ('A solution for treating his sickness')."
+        explanation: "Ferdi states: 'I'm looking for some tips to cure it', which means he is searching for a remedy or solution for his illness."
     },
     {
         id: 11,
@@ -239,7 +239,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "E",
         skill: "Character Evaluation & Error Analysis",
         level: "MOTS",
-        explanation: "Kesalahan Ferdi adalah langsung membaca blog promosi produk tanpa mengecek keabsahan/validitas situs tersebut terlebih dahulu."
+        explanation: "Ferdi's error was blindly trusting a commercial blog without verifying the website's authenticity and credibility."
     },
     {
         id: 12,
@@ -255,7 +255,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "B",
         skill: "Specific Recommendation Identification",
         level: "LOTS",
-        explanation: "Lisa menyarankan agar Ferdi waspada dan berhati-hati terhadap asal-usul sumber informasi online ('Be aware of the source of the information')."
+        explanation: "Lisa advises Ferdi to remain vigilant about the credibility and origin of online information sources."
     },
     {
         id: 13,
@@ -271,7 +271,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Dialogue Inference (HOTS)",
         level: "HOTS",
-        explanation: "Sikap Lisa menunjukkan skeptisisme dan kehati-hatian sejak awal saat menanggapi info artikel online tersebut ('You cannot trust the internet entirely')."
+        explanation: "Lisa demonstrates critical skepticism toward unverified web articles from the outset ('You cannot trust the internet entirely')."
     },
     {
         id: 14,
@@ -287,7 +287,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Expressing Doubt & Risk Assessment",
         level: "LOTS",
-        explanation: "Jane ragu-ragu ('I'm not so sure about that') karena investasi tersebut berisiko tinggi ('It can be very risky')."
+        explanation: "Jane expresses caution ('I'm not so sure about that') by emphasizing the high risk involved ('It can be very risky')."
     },
     {
         id: 15,
@@ -303,7 +303,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "C",
         skill: "Expressing Personal Opinion",
         level: "LOTS",
-        explanation: "Jane ingin menyampaikan pandangan pribadinya, sehingga frasa pembuka opini yang tepat adalah 'In my opinion, ...'."
+        explanation: "Jane is introducing her own stance on conservative investment, which is best opened with 'In my opinion, ...'."
     },
     {
         id: 16,
@@ -319,7 +319,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Visual / Picture Captioning",
         level: "LOTS",
-        explanation: "Caption yang paling positif dan relevan untuk aktivitas belajar interaktif dengan perangkat digital adalah 'Technology helps us to learn better and enjoyable'."
+        explanation: "The most positive and accurate caption for students collaborating with digital devices is 'Technology helps us to learn better and enjoyable'."
     },
     {
         id: 17,
@@ -335,7 +335,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Opinion Phrase in Dialogue",
         level: "LOTS",
-        explanation: "Ellisa menyatakan ketidaksetujuan dan memberikan opininya ('In my opinion, our city is not saved yet')."
+        explanation: "Ellisa conveys her contrasting personal assessment by using the opinion phrase 'In my opinion'."
     },
     {
         id: 18,
@@ -351,7 +351,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "A",
         skill: "Vocabulary in Context (Synonym)",
         level: "LOTS",
-        explanation: "'Perilous' bermakna berbahaya atau penuh risiko ('risky')."
+        explanation: "'Perilous' means full of danger or hazard, synonymous with 'risky'."
     },
     {
         id: 19,
@@ -367,7 +367,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "B",
         skill: "Specific Detail Retrieval",
         level: "LOTS",
-        explanation: "Paragraf 2 menyatakan: 'If your computer runs Windows 10, you should use Microsoft's built-in software, Windows Defender.'"
+        explanation: "Paragraph 2 states: 'If your computer runs Windows 10, you should use Microsoft's built-in software, Windows Defender.'"
     },
     {
         id: 20,
@@ -383,7 +383,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "E",
         skill: "Detail & Consequence Identification",
         level: "LOTS",
-        explanation: "Paragraf 1 secara eksplisit menyebutkan dampak malware: 'annoying pop-ups to covert bitcoin mining to scanning for personal information'."
+        explanation: "Paragraph 1 lists malicious software hazards: 'from annoying pop-ups to covert bitcoin mining to scanning for personal information'."
     },
     {
         id: 21,
@@ -399,7 +399,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "B",
         skill: "Condition & Cause-Effect Retrieval",
         level: "MOTS",
-        explanation: "Paragraf 2 menyatakan: 'If you run an older version of Windows ... or you use a shared computer, a second layer of protection might be necessary.'"
+        explanation: "Paragraph 2 notes that a second layer is needed if running an older Windows version or using a shared multi-user computer."
     },
     {
         id: 22,
@@ -415,7 +415,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "C",
         skill: "Reason & Detail Identification",
         level: "MOTS",
-        explanation: "Paragraf 3 menyatakan: 'Mac users are typically okay ... especially if you download software only from Apple's App Store and stick to well-known browser extensions.'"
+        explanation: "Paragraph 3 explains that Mac users remain safe when restricting downloads to Apple's App Store and reputable browser extensions."
     },
     {
         id: 23,
@@ -431,7 +431,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "C",
         skill: "Main Topic Synthesis",
         level: "MOTS",
-        explanation: "Topik utama teks adalah rekomendasi keamanan digital dan pemilihan perangkat lunak antivirus pada berbagai sistem operasi (Windows & MacOS)."
+        explanation: "The article provides authoritative security recommendations and antivirus software guidance for various operating systems."
     },
     {
         id: 24,
@@ -447,7 +447,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "C",
         skill: "Subject Question in Simple Past (Who + V2)",
         level: "LOTS",
-        explanation: "Dalam 'Subject Question' masa lampau (ada penanda waktu 'yesterday'), kata tanya 'Who' langsung diikuti kata kerja bentuk lampau (V2) tanpa kata bantu 'did', yaitu 'Who bought'."
+        explanation: "In subject questions asking about the actor in the past tense ('yesterday'), the question word 'Who' takes the past verb V2 'bought' without auxiliary 'did'."
     },
     {
         id: 25,
@@ -463,7 +463,7 @@ const QUESTIONS_DATA = [
         correctAnswer: "E",
         skill: "Subject Question Grammar Pattern",
         level: "LOTS",
-        explanation: "Sesuai kunci resmi naskah soal PSTS XI, pilihan yang ditetapkan adalah 'Who help' / 'Who helped'."
+        explanation: "Designated answer key according to official PSTS XI document rubric."
     }
 ];
 
